@@ -1,0 +1,29 @@
+C:\Users\shane\Documents\MySqlTut\MySqlTut\obj\Debug\GameReviewsUI.Form1.resources
+C:\Users\shane\Documents\MySqlTut\MySqlTut\obj\Debug\MySqlTut.Properties.Resources.resources
+C:\Users\shane\Documents\MySqlTut\MySqlTut\obj\Debug\GameReviewsUI.csproj.GenerateResource.Cache
+C:\Users\shane\Documents\MySqlTut\MySqlTut\obj\Debug\MySqlTut.exe
+C:\Users\shane\Documents\MySqlTut\MySqlTut\obj\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\MySqlTut\MySqlTut\bin\Debug\MySqlTut.exe
+C:\Users\shane\Documents\MySqlTut\MySqlTut\bin\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\MySqlTut.exe
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.csprojResolveAssemblyReference.cache
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\MySqlTut.Properties.Resources.resources
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.csproj.GenerateResource.Cache
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\bin\Debug\MySqlTut.exe
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\bin\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.FormGame.resources
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.FormClub.resources
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.UsersPage.resources
+C:\Users\shane\Documents\MySqlTut - Copy\MySqlTut\obj\Debug\GameReviewsUI.FormReviews.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\MySqlTut.exe
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\bin\Debug\MySqlTut.exe
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\bin\Debug\MySqlTut.pdb
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.csprojResolveAssemblyReference.cache
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.FormClub.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.UsersPage.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.FormGame.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.FormReviews.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\MySqlTut.Properties.Resources.resources
+C:\Users\shane\Documents\ItDependsUI\MySqlTut\obj\Debug\GameReviewsUI.csproj.GenerateResource.Cache
